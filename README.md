@@ -21,3 +21,8 @@ This repository contains some codes that I wrote to prepare for technical interv
 14\. [Longest Common Prefix](LeetCode/longestcommonprefix.py)
 
 20\. [Valid Parentheses](LeetCode/validparentheses.cpp)
+
+### 3/1/2022
+21\. [Merge Two Sorted Lists](LeetCode/mergetwosortedlists.cpp)
+26\. [Remove Duplicates from Sorted Array](LeetCode/removeduplicatesfromsortedarray.py)
+27\. [Remove Element](LeetCode/removeelement.py)

@@ -24,5 +24,10 @@ This repository contains some codes that I wrote to prepare for technical interv
 
 ### 3/1/2022
 21\. [Merge Two Sorted Lists](LeetCode/mergetwosortedlists.cpp)
+
 26\. [Remove Duplicates from Sorted Array](LeetCode/removeduplicatesfromsortedarray.py)
+
 27\. [Remove Element](LeetCode/removeelement.py)
+
+### 3/5/2022
+28\. [Implement strStr()](LeetCode/implementstrstr.py)

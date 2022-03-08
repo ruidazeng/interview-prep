@@ -31,3 +31,11 @@ This repository contains some codes that I wrote to prepare for technical interv
 
 ### 3/5/2022
 28\. [Implement strStr()](LeetCode/implementstrstr.py)
+
+### 3/7/2022
+35\. [Search Insert Position](LeetCode/searchinsertposition.py)
+
+### 3/8/2022
+58\. [Length of Last Word](LeetCode/lengthoflastword.py)
+
+66\. [Plus One](LeetCode/plusone.py)

@@ -39,3 +39,12 @@ This repository contains some codes that I wrote to prepare for technical interv
 58\. [Length of Last Word](LeetCode/lengthoflastword.py)
 
 66\. [Plus One](LeetCode/plusone.py)
+
+### 3/9/2022
+69\. [Sqrt(x)](LeetCode/sqrtx.py)
+
+70\. [Climbing Stairs](LeetCode/climbingstairs.py)
+
+67\. [Add Binary](LeetCode/addbinary.py)
+
+53\. [Maximum Subarray](LeetCode/maximumsubarray.py)

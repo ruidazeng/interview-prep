@@ -1,28 +1,22 @@
+# The problem was originally proposed by Ulf Grenander of Brown University in 1977,
+# as a simplified model for maximum likelihood estimation of patterns in digitized images.
+
+# This solution is also known as Kadane's Algorithm.
+# It is linear time algorithm. This solution is given by Joseph B. Kadane in late '70s.
+
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
-        slow_pointer = 0
-        fast_pointer = 0
-        max_sum = 0
-        cur_sum = 0
-        prev_sum = 0
-        n = len(nums)
+        max_sum = nums[0]
+        cur_sum = nums[0]
         
-        while slow_pointer < n:
-            cur_sum += nums[fast_pointer] 
+        for i in range(1, len(nums)):          
+            if nums[i] < cur_sum + nums[i]:
+                cur_sum += nums[i]
+            else:
+                cur_sum = nums[i]
             
-            # update counters
-            if cur_sum < prev_sum:
-                cur_sum -= nums[slow_pointer]
-                slow_pointer += 1
+            # update max
             if cur_sum > max_sum:
                 max_sum = cur_sum
-
-            # move on
-            prev_sum = cur_sum
-            if fast_pointer < n-1:
-                fast_pointer += 1
-            
-            print(slow_pointer, fast_pointer, cur_sum, prev_sum, max_sum)
-        
+                
         return max_sum
-        

@@ -49,3 +49,17 @@ This repository contains some codes that I wrote to prepare for technical interv
 
 ### 3/10/2022
 53\. [Maximum Subarray](LeetCode/maximumsubarray.py)
+
+### 3/13/2022
+88\. [Merge Sorted Array](LeetCode/mergesortedarray.py)
+
+### 3/14/2022
+94\. [Binary Tree Inorder Traversal](LeetCode/binarytreeinordertraversal.cpp)
+
+100\. [Same Tree](LeetCode/sametree.cpp)
+
+### 3/15/2022
+101\. [Symmetric Tree](LeetCode/symmetrictree.cpp)
+
+104\. [Maximum Depth of Binary Tree](LeetCode/maximumdepthofbinarytree.cpp)
+

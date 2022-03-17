@@ -63,3 +63,15 @@ This repository contains some codes that I wrote to prepare for technical interv
 
 104\. [Maximum Depth of Binary Tree](LeetCode/maximumdepthofbinarytree.cpp)
 
+### 3/16/2022
+111\. [Minimum Depth of Binary Tree](LeetCode/minimumdepthofbinarytree.cpp)
+
+### 3/17/2022
+108\. [Convert Sorted Array to Binary Search Tree](LeetCode/convertsortedarraytobinarysearchtree.cpp)
+
+110\. [Balanced Binary Tree](LeetCode/balancedbinarytree.cpp)
+
+112\. [Path Sum](LeetCode/pathsum.cpp)
+
+
+

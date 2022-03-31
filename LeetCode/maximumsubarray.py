@@ -10,9 +10,8 @@ class Solution:
         cur_sum = nums[0]
         
         for i in range(1, len(nums)):          
-            if nums[i] < cur_sum + nums[i]:
-                cur_sum += nums[i]
-            else:
+            cur_sum += nums[i]
+            if cur_sum < nums[i]:
                 cur_sum = nums[i]
             
             # update max

@@ -73,5 +73,28 @@ This repository contains some codes that I wrote to prepare for technical interv
 
 112\. [Path Sum](LeetCode/pathsum.cpp)
 
+118\. [Pascal's Triangle](LeetCode/pascalstriangle.py)
+
+119\. [Pascal's Triangle II](LeetCode/pascalstriangleii.py)
+
+### 3/18/2022
+121\. [Best Time to Buy and Sell Stock](LeetCode/besttimetobuyandsellstock.py)
+
+125\. [Valid Palindrome](LeetCode/validpalindrome.py)
+
+136\. [Single Number](LeetCode/singlenumber.py)
+
+141\. [Linked List Cycle](LeetCode/linkedlistcycle.cpp)
+
+144\. [Binary Tree Preorder Traversal](LeetCode/binarytreepreordertraversal.cpp)
+
+145\. [Binary Tree Postorder Traversal](LeetCode/binarytreepostordertraversal.cpp)
+
+### 3/31/2022
+155\. [Min Stack](LeetCode/minstack.cpp)
+
+160\. [Intersection of Two Linked Lists](LeetCode/intersectionoftwolinkedlists.cpp)
+
+
 
 

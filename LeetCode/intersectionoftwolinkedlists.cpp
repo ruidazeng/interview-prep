@@ -1,6 +1,9 @@
 // Two-Pointers Solution
 // Time Complexity: O(m+n)
 // Space Complexity: O(1)
+// ListA + ListB = A + intersection + B + (will meet here) intersection
+// ListB + ListA = B + intersection + A + (will meet here) intersection
+// This works without knowing the length since len(A + intersection + B) == len(B + intersection + A)
 
 /**
  * Definition for singly-linked list.

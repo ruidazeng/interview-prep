@@ -95,6 +95,13 @@ This repository contains some codes that I wrote to prepare for technical interv
 
 160\. [Intersection of Two Linked Lists](LeetCode/intersectionoftwolinkedlists.cpp)
 
+168\. [Excel Sheet Column Title](LeetCode/excelsheetcolumntitle.py)
+
+### 4/1/2022
+169\. [Majority Element](LeetCode/majorityelement.py)
+
+171\. [Excel Sheet Column Number](LeetCode/excelsheetcolumnnumber.py)
+
 
 
 

@@ -102,6 +102,24 @@ This repository contains some codes that I wrote to prepare for technical interv
 
 171\. [Excel Sheet Column Number](LeetCode/excelsheetcolumnnumber.py)
 
+### 4/8/2022
+
+190\. [Reverse Bits](LeetCode/reversebits.py)
+
+191\. [Number of 1 Bits](LeetCode/numberof1bits.py)
+
+203\. [Remove Linked List Elements](LeetCode/removelinkedlistelements.cpp)
+
+205\. [Isomorphic Strings](LeetCode/isomorphicstrings.py)
+
+### 4/9/2022
+
+206\. [Reverse Linked List](LeetCode/reverselinkedlist.cpp)
+
+202\. [Happy Number](LeetCode/happynumber.py)
+
+
+
 
 
 

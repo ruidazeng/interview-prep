@@ -118,6 +118,20 @@ This repository contains some codes that I wrote to prepare for technical interv
 
 202\. [Happy Number](LeetCode/happynumber.py)
 
+### 4/11/2022
+
+217\. [Contains Duplicate](LeetCode/containsduplicate.py)
+
+219\. [Contains Duplicate II](LeetCode/containsduplicateii.py)
+
+226\. [Invert Binary Tree](LeetCode/invertbinarytree.cpp)
+
+### 4/12/2022
+
+228\. [Summary Ranges](LeetCode/summaryranges.py)
+
+231\. [Power of Two](LeetCode/poweroftwo.py)
+
 
 
 

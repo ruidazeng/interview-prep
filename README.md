@@ -132,8 +132,19 @@ This repository contains some codes that I wrote to prepare for technical interv
 
 231\. [Power of Two](LeetCode/poweroftwo.py)
 
+234\. [Palindrome Linked List](LeetCode/palindromelinkedlist.cpp)
 
+### 4/18/2022
 
+232\. [Implement Queue using Stacks](LeetCode/implementqueueusingstacks.cpp)
+
+258\. [Add Digits](LeetCode/adddigits.py)
+
+### 4/20/2022
+
+263\. [Ugly Number](LeetCode/uglynumber.py)
+
+242\. [Valid Anagram](LeetCode/validanagram.py)
 
 
 

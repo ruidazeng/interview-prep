@@ -146,5 +146,10 @@ This repository contains some codes that I wrote to prepare for technical interv
 
 242\. [Valid Anagram](LeetCode/validanagram.py)
 
+268\. [Missing Number](LeetCode/missingnumber.py)
+
+### 4/21/2022
+
+278\. [First Bad Version](LeetCode/firstbadversion.py)
 
 

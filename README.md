@@ -152,4 +152,16 @@ This repository contains some codes that I wrote to prepare for technical interv
 
 278\. [First Bad Version](LeetCode/firstbadversion.py)
 
+### 5/22/2022
+
+290\. [Word Pattern](LeetCode/wordpattern.py)
+
+292\. [Nim Game](LeetCode/nimgame.py)
+
+### 7/26/2022
+
+283\. [Move Zeroes](LeetCode/movezeroes.py)
+
+326\. [Power of Three](LeetCode/powerofthree.py)
+
 

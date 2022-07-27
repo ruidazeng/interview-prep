@@ -164,4 +164,13 @@ This repository contains some codes that I wrote to prepare for technical interv
 
 326\. [Power of Three](LeetCode/powerofthree.py)
 
+### 7/27/2022
+
+338\. [Counting Bits](LeetCode/countingbits.py)
+
+342\. [Power of Four](LeetCode/poweroffour.py)
+
+344\. [Reverse String](LeetCode/reversestring.py)
+
+345\. [Reverse Vowels of a String](LeetCode/reversevowelsofastring.py)
 

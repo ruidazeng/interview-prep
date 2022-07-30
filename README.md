@@ -174,3 +174,9 @@ This repository contains some codes that I wrote to prepare for technical interv
 
 345\. [Reverse Vowels of a String](LeetCode/reversevowelsofastring.py)
 
+### 7/30/2022
+
+349\. [Intersection of Two Arrays](LeetCode/intersectionoftwoarrays.py)
+
+350\. [Intersection of Two Arrays II](LeetCode/intersectionoftwoarraysii.py)
+

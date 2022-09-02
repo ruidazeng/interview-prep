@@ -180,3 +180,6 @@ This repository contains some codes that I wrote to prepare for technical interv
 
 350\. [Intersection of Two Arrays II](LeetCode/intersectionoftwoarraysii.py)
 
+### 7/31/2022
+
+367\. [Valid Perfect Square](LeetCode/validperfectsquare.py)

@@ -183,3 +183,19 @@ This repository contains some codes that I wrote to prepare for technical interv
 ### 7/31/2022
 
 367\. [Valid Perfect Square](LeetCode/validperfectsquare.py)
+
+### 9/4/2022
+
+374\. [Guess Number Higher or Lower](LeetCode/guessnumberhigherorlower.py)
+
+### 9/6/2022
+
+383\. [Ransom Note](LeetCode/ransomnote.py)
+
+### 9/7/2022
+
+387\. [First Unique Character in a String](LeetCode/firstuniquecharacterinastring.py)
+
+389\. [Find the Difference](LeetCode/findthedifference.py)
+
+392\. [Is Subsequence](issubsequence.py)
